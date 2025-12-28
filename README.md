@@ -32,7 +32,7 @@ collection.
 
 ![Fruit-picking robot in action](https://raw.githubusercontent.com/AngeloReade-WPI/Antonymous-Fruit-Picking-Robot/refs/heads/main/images/FruitPickingRobotDepositing.png)
 
-*Robot actively detecting and collecting fruit during autonomous operation.*
+*Robot actively determining correct bin for deposit.*
 
 > **Note:** Full source code, design files, and additional implementation details can be found
 > in the repository for those interested in a deeper technical breakdown.
