@@ -30,7 +30,7 @@ The image below shows the fruit-picking robot operating autonomously within the 
 environment, highlighting real-time detection, navigation, and interaction with fruit during
 collection.
 
-![Fruit-picking robot in action](image-FruitPickingRobotDepositing.png)
+![Fruit-picking robot in action](https://raw.githubusercontent.com/AngeloReade-WPI/Antonymous-Fruit-Picking-Robot/refs/heads/main/images/FruitPickingRobotDepositing.png)
 
 *Robot actively detecting and collecting fruit during autonomous operation.*
 
